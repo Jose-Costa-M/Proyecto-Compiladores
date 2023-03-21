@@ -13,3 +13,5 @@ En esta segunda parte se termino de realizar la presentación de la interfaz de 
 
 ![Generador Léxico 2023-03-20 23-05-21](https://user-images.githubusercontent.com/88689761/226523607-48278c82-6642-4684-875b-2c61f49b3361.gif)
 
+
+
