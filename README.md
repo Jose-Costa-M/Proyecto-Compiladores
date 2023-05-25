@@ -14,6 +14,8 @@ En esta segunda parte se termino de realizar la presentación de la interfaz de 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88689761/226523607-48278c82-6642-4684-875b-2c61f49b3361.gif" />
 </p>
+
+
 ## Parte 3
 Pasaron 3 semanas despues de la ultima actualización, se implementaron todas las operaciones de los AFND's, actualmente se esta implementando la operacion AFND -> AFD y concluimos con la operación Union para Analizador Léxico.
 
