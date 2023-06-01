@@ -23,6 +23,18 @@ Pasaron 3 semanas despues de la ultima actualización, se implementaron todas la
   <img src="https://user-images.githubusercontent.com/88689761/232969753-da34e953-efa0-44b4-94f9-a75ab4528b7d.gif" />
 </p>
 
+## Parte 4
+Pasaron 4 semanas de la ultima actualización, se implemento la funcion E.R->AFND, se termino el Analizador Léxico y concluimos con el Analizador Sintáctico para la calculadora de Matrices con las siguientes operaciones
+- Suma
+- Resta
+- Multiplicación
+
+![image](https://github.com/Jose-Costa-M/Pr-ctica-1-Compiladores/assets/88689761/5b435bf9-c134-4cb5-9e54-c0c2ca6d8fb4)
+
+Por otra parte se le implementaron más funcionalidades, por ejemplo, cargar archivos desde el explorador, generar la tabla de los AFD en un Excel para una mayor claridad.
+
+
+
 
 
 
