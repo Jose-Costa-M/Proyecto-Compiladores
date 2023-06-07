@@ -1,6 +1,6 @@
 # Práctica 1 Compiladores
 
-Práctica realizada con GUI en C#
+Proyecto realizada con GUI en C# para la clase de Compiladores impartida por el profesor Andrés Ortigoza Campos
 
 ## Parte 1
 En esta parte solo se ha realizado la interfaz para el usuario, aún no tiene funcionalidad.
