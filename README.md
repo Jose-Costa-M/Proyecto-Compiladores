@@ -34,6 +34,24 @@ Pasaron 4 semanas de la ultima actualización, se implemento la funcion E.R->AFN
 Por otra parte se le implementaron más funcionalidades, por ejemplo, cargar archivos desde el explorador, generar la tabla de los AFD en un Excel para una mayor claridad.
 
 
+## Parte 5
+
+Paso 1 semana despues de la ultima actualización, se implementa el descenso recursivo para la creación de la tabla LL(1) la cual nos será de ayuda a analizar sintacticamente una cadena en base en una gramatica dada.
+
+Para este ejemplo usamos la grámatica para las expresiones regulares dada por:
+
+<p aling="center">
+![image](https://github.com/Jose-Costa-M/Pr-ctica-1-Compiladores/assets/88689761/3e1b6d4c-40df-4000-b120-4d1c19695a16)
+</p>
+
+del cual nos brinda el siguiente resultado:
+
+<p aling="center">
+![image](https://github.com/Jose-Costa-M/Pr-ctica-1-Compiladores/assets/88689761/29a534ac-ec56-4c8e-b220-e0a692a282a9)
+</p>
+
+
+
 
 
 
