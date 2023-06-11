@@ -54,6 +54,8 @@ Se agrega la columna 3 (Acciones) al DataGridView del Analizador Sintáctico de 
 Tambien se prueba el descenso recursivo con la gramática de matrices que se ocupo en la parte 4 de operaciones con matrices
 
 Esta es la gramática:
+
+
 ![image](https://github.com/Jose-Costa-M/Proyecto-Compiladores/assets/88689761/fa191ee3-e8b5-4c96-9995-0c6165c58f4b)
 
 
