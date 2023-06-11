@@ -51,6 +51,19 @@ Se agrega la columna 3 (Acciones) al DataGridView del Analizador Sintáctico de 
 
 ![image](https://github.com/Jose-Costa-M/Proyecto-Compiladores/assets/88689761/2bd94fbd-6ef8-4408-88e4-9fd85a9e1f15)
 
+Tambien se prueba el descenso recursivo con la gramática de matrices que se ocupo en la parte 4 de operaciones con matrices
+
+Esta es la gramática:
+![image](https://github.com/Jose-Costa-M/Proyecto-Compiladores/assets/88689761/fa191ee3-e8b5-4c96-9995-0c6165c58f4b)
+
+
+Resultado de ejecutar el programa
+
+
+![image](https://github.com/Jose-Costa-M/Proyecto-Compiladores/assets/88689761/8ac98091-89d4-4ff3-8c57-8202977a624a)
+
+
+
 
 
 
