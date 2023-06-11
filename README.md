@@ -46,6 +46,14 @@ del cual nos brinda el siguiente resultado:
 
 ![image](https://github.com/Jose-Costa-M/Pr-ctica-1-Compiladores/assets/88689761/29a534ac-ec56-4c8e-b220-e0a692a282a9)
 
+## Parte 6
+Se agrega la columna 3 (Acciones) al DataGridView del Analizador Sintáctico de gramáticas
+
+![image](https://github.com/Jose-Costa-M/Proyecto-Compiladores/assets/88689761/2bd94fbd-6ef8-4408-88e4-9fd85a9e1f15)
+
+
+
+
 
 
 
