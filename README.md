@@ -65,6 +65,20 @@ Resultado de ejecutar el programa
 ![image](https://github.com/Jose-Costa-M/Proyecto-Compiladores/assets/88689761/8ac98091-89d4-4ff3-8c57-8202977a624a)
 
 
+## Parte 7 (Final)
+
+Para terminar este proyecto, en el metodo AnalizarSin de la clase TablaLL1 se implementó la creación del arbol de derivación, creando una estructura de tipo Arbol que irá almacenando los nodos terminales y no terminales de la cadena ingresada.
+
+Un ejemplo es la caden [a-z]+&[0-9]+ con el siguiente arbol:
+
+![image](https://github.com/Jose-Costa-M/Proyecto-Compiladores/assets/88689761/e6442909-9247-42c6-acf1-1e81d518359f)
+
+
+
+
+
+
+
 
 
 
